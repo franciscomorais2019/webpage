@@ -2,6 +2,6 @@
 
 ## Testando os os comando,  clone, push, commit e pull
 
-   ```php
-	     echo {$_SESSION}
-	     ```
+   ``` php
+	 echo {$_SESSION}
+	 ```
